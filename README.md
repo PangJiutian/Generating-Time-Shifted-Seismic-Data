@@ -25,7 +25,14 @@ To address this, we simulate realistic time-shift scenarios using synthetic data
 
 This process generates a dataset of aligned and misaligned seismic traces to train a model for time-shift estimation and correction.
 
+## 🖼️ Result Visualization
+
+### TDR and Shift TDR
+![Alt text](TDRS.png)
+
 ## 🚀 Objective
 
 To develop a neural network capable of learning the mapping from misaligned seismic traces to accurate time-shift corrections, enabling better well-to-seismic integration in real-world applications.
+
+
 
