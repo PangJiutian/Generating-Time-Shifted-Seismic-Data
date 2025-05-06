@@ -43,5 +43,9 @@ This process generates a dataset of aligned and misaligned seismic traces to tra
 
 To develop a neural network capable of learning the mapping from misaligned seismic traces to accurate time-shift corrections, enabling better well-to-seismic integration in real-world applications.
 
+## How to Contribute
+
+If you find this project useful, please give it a star! Your support is greatly appreciated and helps others discover the project.
+
 
 
