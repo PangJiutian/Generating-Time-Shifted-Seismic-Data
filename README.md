@@ -1,4 +1,4 @@
-# Seismic Well-Tie: Time-Shift Estimation and Correction
+# Seismic Well-Tie: Generating Time-Shifted Seismic Data
 
 This project explores the challenge of misalignment between well logs and seismic data due to time shifts caused by inaccurate time-depth relationships (TDR). Such misalignment—where seismic peaks and troughs do not align with well-log events—poses a serious problem for supervised learning models, preventing them from learning correct input-label relationships.
 
