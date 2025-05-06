@@ -25,12 +25,6 @@ To address this, we simulate realistic time-shift scenarios using synthetic data
 
 This process generates a dataset of aligned and misaligned seismic traces to train a model for time-shift estimation and correction.
 
-## 🖼️ Result Visualization
-
-### TDR and Shift TDR
-![Alt text](TDRS.png)
-### Seismic data computed by shift TDR
-![Alt text](shift_records.png)
 
 ## 🚀 Objective
 
