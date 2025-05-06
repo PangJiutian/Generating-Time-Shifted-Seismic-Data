@@ -29,6 +29,8 @@ This process generates a dataset of aligned and misaligned seismic traces to tra
 
 ### TDR and Shift TDR
 ![Alt text](TDRS.png)
+### Seismic data computed by shift TDR
+![Alt text](shift_records.png)
 
 ## 🚀 Objective
 
