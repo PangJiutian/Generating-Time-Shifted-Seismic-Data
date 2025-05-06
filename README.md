@@ -25,6 +25,19 @@ To address this, we simulate realistic time-shift scenarios using synthetic data
 
 This process generates a dataset of aligned and misaligned seismic traces to train a model for time-shift estimation and correction.
 
+### 📷 Inversion Result Example
+
+<p align="center">
+  <img src="TDRS.png" alt="Inversion Result" width="80%">
+</p>
+
+*Figure 1. True TDR and shifted TDRs.*
+
+<p align="center">
+  <img src="shift_records.png" alt="Inversion Result" width="80%">
+</p>
+
+*Figure 1. True record and shifted records.*
 
 ## 🚀 Objective
 
