@@ -37,7 +37,7 @@ This process generates a dataset of aligned and misaligned seismic traces to tra
   <img src="shift_records.png" alt="Inversion Result" width="80%">
 </p>
 
-*Figure 1. True record and shifted records.*
+*Figure 2. True record and shifted records.*
 
 ## 🚀 Objective
 
